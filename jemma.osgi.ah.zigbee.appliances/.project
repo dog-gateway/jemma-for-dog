@@ -25,11 +25,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.pde.PluginNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>easymock-2.4.jar</name>
-			<type>1</type>
-			<location>C:/Users/bonino/.m2/repository/org/easymock/easymock/2.4/easymock-2.4.jar</location>
-		</link>
-	</linkedResources>
 </projectDescription>
