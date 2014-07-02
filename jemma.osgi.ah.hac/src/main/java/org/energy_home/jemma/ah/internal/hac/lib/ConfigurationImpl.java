@@ -70,11 +70,9 @@ public class ConfigurationImpl implements Configuration {
 		return (Configuration) this.configurations.get(pid);
 	}
 
-	@Override
 	public long getChangeCount()
 	{
 		// TODO Auto-generated method stub
 		return 0;
 	}
-
 }

@@ -69,7 +69,6 @@ public class FactoryConfigurationImpl implements Configuration {
 		this.configurations.put(configuration.getPid(), configuration);
 	}
 
-	@Override
 	public long getChangeCount()
 	{
 		// TODO Auto-generated method stub
